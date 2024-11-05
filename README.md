@@ -7,7 +7,7 @@
 ![Screenshot (72)](https://github.com/user-attachments/assets/a297d51f-df72-45bb-8b58-c13541efa20f)
 
 
-# PENJELASANNYA
+# PENJELASAN
 
 Kode pada tangkapan layar di atas menghasilkan angka acak dan mencetaknya jika angkanya di bawah 0,5. Berikut penjelasan masing-masing bagian:
 
